@@ -1,6 +1,6 @@
 # IT-Support-Ticket-Case
 Entry-level IT Help Desk ticket portfolio demonstrating real-world troubleshooting scenarios
-# IT Help Desk Ticket Portfolio
+#it-support #helpdesk #windows #networking #troubleshooting
 
 This repository showcases realistic IT Help Desk ticket simulations created to demonstrate my skills as an entry-level IT Support / Help Desk Technician.
 
