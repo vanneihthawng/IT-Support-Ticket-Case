@@ -1,5 +1,5 @@
 # IT-Support-Ticket-Case
-Sanitized real-world IT support ticket case studies
+Entry-level IT Help Desk ticket portfolio demonstrating real-world troubleshooting scenarios
 # IT Help Desk Ticket Portfolio
 
 This repository showcases realistic IT Help Desk ticket simulations created to demonstrate my skills as an entry-level IT Support / Help Desk Technician.
