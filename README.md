@@ -1,10 +1,20 @@
 # IT-Support-Ticket-Case
-Entry-level IT Help Desk ticket portfolio demonstrating real-world troubleshooting scenarios
-#it-support #helpdesk #windows #networking #troubleshooting
+This repository contains a collection of simulated IT Help Desk tickets created to demonstrate my troubleshooting, documentation, and support skills for an entry-level IT Support / Help Desk Technician role.
 
-This repository showcases realistic IT Help Desk ticket simulations created to demonstrate my skills as an entry-level IT Support / Help Desk Technician.
+Each ticket represents common real-world issues handled by IT support teams and follows a standard help desk workflow.
 
-Each ticket reflects common issues handled in a corporate IT environment and includes user-reported problems, troubleshooting steps, resolutions, and documentation.
+---
+
+## 📂 What This Repository Contains
+
+- User-reported issues
+- Troubleshooting actions taken
+- Root cause identification
+- Issue resolution
+- Verification of success
+- Time logs for each ticket
+
+All tickets are documented as PDF files inside the **Tickets** folder.
 
 ---
 
