@@ -1,7 +1,11 @@
-# IT-Support-Ticket-Case
-This repository contains a collection of simulated IT Help Desk tickets created to demonstrate my troubleshooting, documentation, and support skills for an entry-level IT Support / Help Desk Technician role.
+## Help Desk Ticket Case Studies (Tier 1–2)
 
-Each ticket represents common real-world issues handled by IT support teams and follows a standard help desk workflow.
+This repository contains simulated Tier 1–2 IT Help Desk ticket case studies.
+The focus is on troubleshooting methodology, technical documentation,
+and escalation awareness commonly used in real-world IT support environments.
+
+Hands-on labs (Active Directory, PowerShell automation, and network labs)
+are planned as future projects and will be added as separate repositories.
 
 ---
 
@@ -52,4 +56,9 @@ All tickets are documented as PDF files inside the **Tickets** folder.
 - Focused on **realistic scope and timelines**
 - Written using **clear, professional help desk language**
 
-This portfolio is intended for hiring managers and recruiters evaluating entry-level IT Support candidates.
+## Troubleshooting Approach
+- Identify user impact and scope
+- Gather system and network information
+- Isolate root cause
+- Apply fix and verify resolution
+- Document outcome and prevention steps
